@@ -14,6 +14,13 @@ NOTE:
   $ typings install dt~angular@1.4.0 --save --global
   $ typings install dt~angular-resource --save
   $ typings install dt~angular-mocks --save
+  $ typings install dt~angular-route --save
+````
+
+## Running the app
+````
+$ npm install static-server --save
+$ node server.js 
 ````
 
 
