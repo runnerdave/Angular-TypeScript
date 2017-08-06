@@ -7,6 +7,15 @@ NOTE:
 
 `var id = +parameters[length - 1];`
 
+## TSD is deprecated, use typings instead:
+
+````$ npm install typings --global
+  $ typings install dt~angular --save
+  $ typings install dt~angular@1.4.0 --save --global
+  $ typings install dt~angular-resource --save
+  $ typings install dt~angular-mocks --save
+````
+
 
 
 
