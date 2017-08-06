@@ -194,3 +194,9 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+/.idea/
+/APM/app/common/services/common.services.js
+/APM/app/common/services/dataAccessService.js
+/APM/app/common/services/productResourceMock.js
+/APM/app/app.js
+/APM/app/productListCtrl.js
